@@ -106,7 +106,7 @@ main{
 .main-buttons div{
     display: inline-block;
 }
-.main-buttons{
+.main-buttons button{
     border: none;
     height: 36px;
     background-color: #f8f9fa;
